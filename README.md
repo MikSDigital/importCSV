@@ -3,8 +3,7 @@ Read CSV file and write data to sqlite DB
 
 Followed by https://www.codereviewvideos.com/course/how-to-import-a-csv-in-symfony tutorial
 
-  * [**How To Import A CSV in Symfony**][1] - Adds several enhancements, including
-    template and routing annotation capability
+  * [**How To Import A CSV in Symfony**][1] - Video tutorial how to deal with csv with Symfony command line
 
 What's inside?
 --------------
